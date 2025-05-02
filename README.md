@@ -1,8 +1,8 @@
-🤖 BOT FURIA | Telegram
+## 🤖 BOT FURIA | Telegram
 
 Este projeto foi desenvolvido para a FURIA Esports, com o objetivo de aproximar os fãs do time através de um bot no Telegram, fornecendo informações atualizadas sobre jogos, campeonatos, lineups e muito mais.
 
-📌 O que é o Bot da FURIA?
+## 📌 O que é o Bot da FURIA?
 
 O BOT FURIA é um assistente virtual criado para interagir com os torcedores da FURIA. Ele fornece:
 
@@ -18,7 +18,7 @@ Acesso a grupos de fãs
 
 ... tudo isso via comandos simples no Telegram.
 
-👤 Para os torcedores
+## 👤 Para os torcedores
 
 Ao iniciar o bot com /start, você receberá um menu de opções para explorar:
 
@@ -64,7 +64,7 @@ Links das redes sociais e loja
 
 Acesso à Fanzone no Telegram
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Python 3.11+
 
@@ -74,7 +74,7 @@ Python-Telegram-Bot para integração com o Telegram
 
 Liquipedia como fonte principal de dados
 
-🚀 Como rodar o projeto localmente
+## 🚀 Como rodar o projeto localmente
 
 Requisitos:
 
@@ -97,7 +97,7 @@ $ pip install -r requirements.txt
 $ python main.py
 
 
-💡 Possíveis melhorias futuras
+## 💡 Possíveis melhorias futuras
 
 Curiosidades sobre a instituição
 
@@ -115,7 +115,7 @@ Setup dos jogadores
 
 Sistema de conversa com os jogadores (Juntamente com a ideia da gamificação)
 
-🖤🤍 FURIA É NOSSA PAIXÃO 🤍🖤
+### 🖤🤍 FURIA É NOSSA PAIXÃO 🤍🖤
 
 Este projeto é dedicado à comunidade que vibra a cada jogo da FURIA.
 
