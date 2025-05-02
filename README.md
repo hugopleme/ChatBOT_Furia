@@ -24,45 +24,25 @@ Ao iniciar o bot com /start, você receberá um menu de opções para explorar:
 
 Lista de Comandos:
 
-Comando
+Comando - Função
 
-Função
+/start - Informações iniciais sobre o bot
 
-/start
+/comandos ou /help - Lista de comandos disponíveis
 
-Informações iniciais sobre o bot
+/lineup - Mostra a escalação atual da equipe
 
-/comandos ou /help
+/proximojogo - Informações sobre o próximo jogo da FURIA
 
-Lista de comandos disponíveis
+/proximocamp - Detalhes do próximo campeonato
 
-/lineup
+/ultimosresultados - Resultados das últimas 5 partidas
 
-Mostra a escalação atual da equipe
+/historico - Histórico geral da equipe
 
-/proximojogo
+/paginas - Links das redes sociais e loja
 
-Informações sobre o próximo jogo da FURIA
-
-/proximocamp
-
-Detalhes do próximo campeonato
-
-/ultimosresultados
-
-Resultados das últimas 5 partidas
-
-/historico
-
-Histórico geral da equipe
-
-/paginas
-
-Links das redes sociais e loja
-
-/grupo
-
-Acesso à Fanzone no Telegram
+/grupo - Acesso à Fanzone no Telegram
 
 ## 🛠️ Tecnologias Utilizadas
 
