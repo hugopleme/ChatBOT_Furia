@@ -146,7 +146,8 @@ async def paginas(update: Update, context: ContextTypes.DEFAULT_TYPE):
 #Envia o link para o grupo de comunicação entre os fãs (FANZONE)
 async def grupo(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("LINK PARA NOSSA FANZONE: \n"
-                                    "🖤🤍 https://t.me/+VBue7IQoT-A4NTlh 🤍🖤")
+                                    "🖤🤍 https://t.me/+VBue7IQoT-A4NTlh 🤍🖤\n"
+                                    "EMPURRA!!!")
 
 if __name__ == '__main__':
     app = ApplicationBuilder().token("7863127163:AAE85-rsxyiZbrcrnaJX_44KUO6TGZTcDAE").build()
