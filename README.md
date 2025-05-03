@@ -62,18 +62,18 @@ Python instalado
 
 Chrome instalado
 
-Passos:
+# Passos:
 
-# 1. Clone este repositório
+1. Clone este repositório
 $ git clone https://github.com/hugopleme/ChatBOT_Furia
 
-# 2. Acesse a pasta do projeto
+2. Acesse a pasta do projeto
 $ cd ChatBOT_Furia
 
-# 3. Instale as dependências
+3. Instale as dependências
 $ pip install -r requirements.txt
 
-# 4. Execute o bot
+4. Execute o bot
 $ python main.py
 
 
